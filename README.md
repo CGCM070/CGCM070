@@ -2,7 +2,20 @@
 I am currently studying Web Application Development (DAW) at IES Vega de Mijas.
 I am focused on building robust and scalable web applications.
 
-# Technologies
+## Current Projects
+
+### Real-Time Messaging Application
+I am developing a real-time messaging application using WebSockets and RabbitMQ. The application is built with Spring Boot for the backend and JavaScript for the frontend. In the future, I plan to add Spring Security and JWT for authentication.
+
+Check out the repository for this project: [RabbitMq_Test](https://github.com/CGCM070/RabiitMq_Test)
+
+
+### Bicycle Sales Website
+I have created a website for selling bicycles using HTML, CSS, and JavaScript. This project has allowed me to apply the knowledge acquired in DAW and refined through the Origamid course. work in progress
+
+Check out the repository for this project: 
+[CGCM070.github.io](https://github.com/CGCM070/CGCM070.github.io)
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
