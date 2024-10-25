@@ -1,10 +1,8 @@
+# 👋 Hi, I'm César!
+I am currently studying Web Application Development (DAW) at IES Vega de Mijas.
+I am focused on building robust and scalable web applications.
 
-
-
-
-
-
-
+# Technologies
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
