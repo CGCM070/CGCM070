@@ -13,7 +13,7 @@ Check out the repository for this project: [RabbitMq_Test](https://github.com/CG
 ### Bicycle Sales Website
 I have created a website for selling bicycles using HTML, CSS, and JavaScript. This project has allowed me to apply the knowledge acquired in DAW and refined through the Origamid course. work in progress
 
-Check out the repository for this project: https://cgcm070.github.io/
+Check out: https://cgcm070.github.io/
 
 
 
