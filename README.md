@@ -7,7 +7,7 @@ I am focused on building robust and scalable web applications.
 ### Real-Time Messaging Application
 I am developing a real-time messaging application using WebSockets and RabbitMQ. The application is built with Spring Boot for the backend and JavaScript for the frontend. In the future, I plan to add Spring Security and JWT for authentication.
 
-Check out the repository for this project: [RabbitMq_Test](https://github.com/CGCM070/RabiitMq_Test)
+Check out the repository for this project: [RabbitMq_Test](https://github.com/CGCM070/RabbitMq_Test)
 
 
 ### Bicycle Sales Website
