@@ -14,8 +14,8 @@ Check out the repository for this project: [RabbitMq_Test](https://github.com/CG
 I have created a website for selling bicycles using HTML, CSS, and JavaScript. This project has allowed me to apply the knowledge acquired in DAW and refined through the Origamid course. work in progress
 
 Check out: https://cgcm070.github.io/
-
-
+### Linkedin:
+www.linkedin.com/in/cgcm
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
