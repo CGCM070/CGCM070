@@ -44,6 +44,13 @@ Check out: https://cgcm070.github.io/
     <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/Angular-19-6DB33F?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-4C8BF6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-Student%20Expert-FF6F61?style=for-the-badge&logo=postman" />
+    <img src="https://img.shields.io/badge/IntelliJ-Plugin-000000?style=for-the-badge&logo=intellij" />
+    <img src="https://img.shields.io/badge/VSCode-Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
+    <img src="https://img.shields.io/badge/Eclipse-IDE-FF0000?style=for-the-badge&logo=eclipse" />
+
 </div>
 
 ## Social Media
