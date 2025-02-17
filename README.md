@@ -16,7 +16,7 @@ Key features include:
 5. User profile management and customization options
 
 
-The frontend will be developed using Angular, ensuring a responsive and intuitive user interface across devices. Future plans include implementing voice call functionality and advanced search capabilities.
+The frontend will be developed using Angular, ensuring a responsive and intuitive user interface across device
 
 The application architecture is designed for scalability, with MySQL as the primary database for persistent storage. The project aims to provide a seamless, all-in-one solution for team communication, project management, and collaboration in the digital workspace."
 
