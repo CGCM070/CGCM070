@@ -22,6 +22,13 @@ The application architecture is designed for scalability, with MySQL as the prim
 
 Check out the repository for this project: [RabbitMq_Test] (https://github.com/CGCM070/RabbitMq_Test)  (Test Branch, Backend)
 
+<p align="center">
+  <img src="assets/landing.png" width="300">
+      <img src="assets/form.png" width="200" >
+  <img src="assets/dashboard.png" width="300">
+</p>
+
+
 
 ### Bicycle Sales Website
 I have created a website for selling bicycles using HTML, CSS, and JavaScript. This project has allowed me to apply the knowledge acquired in DAW and refined through the Origamid course. work in progress
