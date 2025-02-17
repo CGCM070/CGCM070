@@ -5,9 +5,22 @@ I am focused on building robust and scalable web applications.
 ## Current Projects
 
 ### Real-Time Messaging Application
-I am developing a real-time messaging application using WebSockets and RabbitMQ. The application is built with Spring Boot for the backend and JavaScript for the frontend. In the future, I plan to add Spring Security and JWT for authentication.
+I am developing Nexus, an advanced real-time communication and collaboration platform. The core of the application uses WebSockets for instant messaging and RabbitMQ for reliable message queuing and distribution. The backend is built with Java and Spring Boot, leveraging its robust ecosystem for enterprise-grade applications.
 
-Check out the repository for this project: [RabbitMq_Test](https://github.com/CGCM070/RabbitMq_Test)  (Test Branch)
+Key features include:
+
+1. Real-time messaging across multiple channels and servers
+2. User authentication and authorization (to be implemented with Spring Security and JWT)
+3. A comprehensive notes system with CRUD operations, presented as interactive cards
+4. Task management capabilities integrated within communication channels
+5. User profile management and customization options
+
+
+The frontend will be developed using Angular, ensuring a responsive and intuitive user interface across devices. Future plans include implementing voice call functionality and advanced search capabilities.
+
+The application architecture is designed for scalability, with MySQL as the primary database for persistent storage. The project aims to provide a seamless, all-in-one solution for team communication, project management, and collaboration in the digital workspace."
+
+Check out the repository for this project: [RabbitMq_Test] (https://github.com/CGCM070/RabbitMq_Test)  (Test Branch, Backend)
 
 
 ### Bicycle Sales Website
