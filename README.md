@@ -29,6 +29,7 @@ Check out the repository for this project: [RabbitMq_Test] (https://github.com/C
   <img src="assets/dashboard-oscuro.png" width="300">
   <img src="assets/tareas.png" width="300">
   <img src="assets/calendario.png" width="300">
+    <img src="assets/dashboard-movil.png" width="300">
 </p>
 
 
