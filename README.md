@@ -20,7 +20,7 @@ The frontend will be developed using Angular, ensuring a responsive and intuitiv
 
 The application architecture is designed for scalability, with MySQL as the primary database for persistent storage. The project aims to provide a seamless, all-in-one solution for team communication, project management, and collaboration in the digital workspace."
 
-Check out the repository for this project: [RabbitMq_Test] (https://github.com/CGCM070/RabbitMq_Test)  (Test Branch, Backend)
+
 
  <!--- <p align="center">
   <img src="assets/landing.png" width="300">
