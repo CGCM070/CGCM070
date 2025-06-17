@@ -26,14 +26,15 @@ The application architecture is designed for scalability, with MySQL as the prim
 
 
 
-<p align="center">
-  <img src="assets/landing.png" width="300">
-  <img src="assets/dashboard.png" width="300">
-  <img src="assets/notes.png" width="300">
-  <img src="assets/tareas.png" width="300">
-  <img src="assets/calendario.png" width="300">
-  <img src="assets/dashboard-movil.png" width="300">
-</p>
+
+
+| Landing | Dashboard | Notes |
+|---------|----------|-------|
+| ![](assets/landing.png) | ![](assets/dashboard.png) | ![](assets/notes.png) |
+
+| Task   | Calendar  | Mobile |
+|--------|-----------|--------|
+| ![](assets/tareas.png) | ![](assets/calendario.png) | ![](assets/dashboard-movil.png) |
 
 
 
