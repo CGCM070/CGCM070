@@ -20,16 +20,20 @@ The frontend will be developed using Angular, ensuring a responsive and intuitiv
 
 The application architecture is designed for scalability, with MySQL as the primary database for persistent storage. The project aims to provide a seamless, all-in-one solution for team communication, project management, and collaboration in the digital workspace."
 
+[Nexus_Video](https://drive.google.com/file/d/1QFsRaHY8YvME38d-2GQ7gHev1cM71uuC/view?usp=drive_link)
+
+
+
 
 
  <!--- <p align="center">
   <img src="assets/landing.png" width="300">
   <img src="assets/login.png" width="200" >
   <img src="assets/dashboard.png" width="300">
-  <img src="assets/dashboard-oscuro.png" width="300">
+  <img src="assets/notes" width="300">
   <img src="assets/tareas.png" width="300">
   <img src="assets/calendario.png" width="300">
-    <img src="assets/dashboard-movil.png" width="300">
+  <img src="assets/dashboard-movil.png" width="300">
 </p> --->
 
 
