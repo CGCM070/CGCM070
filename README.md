@@ -1,5 +1,5 @@
 # 👋 Hi, I'm César!
-I am currently studying Web Application Development (DAW) at IES Vega de Mijas.
+I have graduated in Web Application Development (DAW) from IES Vega de Mijas. 
 I am focused on building robust and scalable web applications.
 
 ## Current Projects
@@ -14,7 +14,7 @@ Key features include:
 3. A comprehensive notes system with CRUD operations, presented as interactive cards
 4. Task management capabilities integrated within communication channels
 5. User profile management and customization options
-
+6. Invitation of users via email  
 
 The frontend will be developed using Angular, ensuring a responsive and intuitive user interface across device
 
@@ -22,20 +22,17 @@ The application architecture is designed for scalability, with MySQL as the prim
 
 [Nexus_Video](https://drive.google.com/file/d/1QFsRaHY8YvME38d-2GQ7gHev1cM71uuC/view?usp=drive_link)
 
-
-
-
-
-
-
 | Landing | Dashboard | Notes |
-|---------|----------|-------|
+|---------|-----------|-------|
 | ![](assets/landing.png) | ![](assets/dashboard.png) | ![](assets/notes.png) |
 
 | Task   | Calendar  | Mobile |
 |--------|-----------|--------|
 | ![](assets/tareas.png) | ![](assets/calendario.png) | ![](assets/dashboard-movil.png) |
 
+| Email Invitation |
+|------------------|
+| ![](assets/email.png) |
 
 
 ### Bicycle Sales Website
@@ -64,9 +61,6 @@ Check out: https://cgcm070.github.io/
 ## Social Media
 Linkedin: www.linkedin.com/in/cgcm         
 Email: cesar.gabriel.martinezs7@gmail.com
-
-
-
 
 
 <!---
