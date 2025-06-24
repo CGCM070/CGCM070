@@ -1,6 +1,5 @@
 # 👋 Hi, I'm César!
-I have graduated in Web Application Development (DAW) from IES Vega de Mijas. 
-I am focused on building robust and scalable web applications.
+Web Application Developer from IES Vega de Mijas. Committed to continuous personal and professional growth.
 
 ## Current Projects
 
