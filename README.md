@@ -33,7 +33,7 @@ The application architecture is designed for scalability, with MySQL as the prim
 |------------------|
 | ![](assets/email.png) |
 
-## BrainStorm César [BETA] 💡
+## BrainStorm App [BETA] 💡
 
 I have created a collaborative brainstorming platform using Java, Spring Boot, Angular, and Tailwind CSS. This project allows me to apply full-stack development knowledge, implementing real-time features with WebSockets and modern web technologies. Work in progress.
 
