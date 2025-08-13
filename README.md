@@ -33,6 +33,20 @@ The application architecture is designed for scalability, with MySQL as the prim
 |------------------|
 | ![](assets/email.png) |
 
+## BrainStorm César [BETA] 💡
+
+I have created a collaborative brainstorming platform using Java, Spring Boot, Angular, and Tailwind CSS. This project allows me to apply full-stack development knowledge, implementing real-time features with WebSockets and modern web technologies. Work in progress.
+
+**Tech Stack:**
+- Backend: Java + Spring Boot + Maven
+- Frontend: Angular + TypeScript + Tailwind CSS
+- Database: SQL
+- Real-time: WebSockets
+
+**Note:** The app may take a moment to load initially as it's hosted on a free server that needs time to start up.
+
+Check out: https://brainstorm-app.vercel.app
+
 
 ### Bicycle Sales Website
 I have created a website for selling bicycles using HTML, CSS, and JavaScript. This project has allowed me to apply the knowledge acquired in DAW and refined through the Origamid course. work in progress
