@@ -37,7 +37,7 @@ I have created a collaborative brainstorming platform using Java, Spring Boot, A
 **Tech Stack:**
 - Backend: Java + Spring Boot + Maven
 - Frontend: Angular + TypeScript + Tailwind CSS
-- Database: SQL
+- Database: PostgreSQL
 - Real-time: WebSockets
 
 **Note:** The app might be a little slow to start the first time—it’s hosted on a free server that takes a moment to warm up. Thanks for your patience.
