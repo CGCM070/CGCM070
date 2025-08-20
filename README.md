@@ -29,9 +29,6 @@ The application architecture is designed for scalability, with MySQL as the prim
 |--------|-----------|--------|
 | ![](assets/tareas.png) | ![](assets/calendario.png) | ![](assets/dashboard-movil.png) |
 
-| Email Invitation |
-|------------------|
-| ![](assets/email.png) |
 
 ## BrainStorm App [BETA] 💡
 
@@ -43,7 +40,7 @@ I have created a collaborative brainstorming platform using Java, Spring Boot, A
 - Database: SQL
 - Real-time: WebSockets
 
-**Note:** The app may take a moment to load initially as it's hosted on a free server that needs time to start up.
+**Note:** The app might be a little slow to start the first time—it’s hosted on a free server that takes a moment to warm up. Thanks for your patience.
 
 Check out: https://brainstorm-app.vercel.app
 
