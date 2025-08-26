@@ -15,7 +15,7 @@ Full-stack application for team communication and project management.
 - User profiles, invitations, and secure authentication (JWT + Spring Security)
 - Designed for responsiveness across devices
   
-📸 Screenshots available below,
+📸 Screenshots available below
 
 [Nexus_Video](https://drive.google.com/file/d/1QFsRaHY8YvME38d-2GQ7gHev1cM71uuC/view?usp=drive_link)
 
