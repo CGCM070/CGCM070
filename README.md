@@ -33,7 +33,7 @@ Collaborative brainstorming tool with real-time updates.
 
 **Stack:** Java · Spring Boot · Angular · Tailwind CSS · PostgreSQL
 
-**Note:** The app may take up to 2 minutes to load on first launch due to free server warm-up time. Thanks for your patience.
+**Note:** The app may take up to 1 minute to load on first launch due to free server warm-up time. Thanks for your patience.
 
 Check out: https://brainstorm-app.vercel.app
 
