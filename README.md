@@ -19,9 +19,9 @@
 
 📸 Explore demos below to see the apps in action.
 
-<div style="width: 100%; max-width: 480px; height: auto; margin-bottom: 12px; position: relative;">
-  <a href="https://drive.google.com/file/d/1QFsRaHY8YvME38d-2GQ7gHev1cM71uuC/view?usp=drive_link" target="_blank" style="display: block; position: relative;">
-    <img src="assets/nexus/nexus.gif" alt="Nexus Video" style="width: 100%; height: 320px; object-fit: cover; display: block; border-radius: 18px; filter: brightness(0.85);" />
+<div >
+  <a href="https://drive.google.com/file/d/1QFsRaHY8YvME38d-2GQ7gHev1cM71uuC/view?usp=drive_link" >
+    <img src="assets/nexus/nexus.gif" alt="Nexus Video" />
   </a>
 </div>
 
@@ -35,9 +35,9 @@ Create a room or join an existing one, share your ideas, vote, and make decision
 
 Check out: https://brainstorm-app.vercel.app
 
-<div style="width: 100%; max-width: 480px; height: auto; margin-bottom: 12px; border-radius: 18px; overflow: hidden; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.76); background: #222222aa;">
+<div >
   <a href="https://brainstorm-app.vercel.app" target="_blank" style="display: block;">
-    <img src="assets/brainstorm/brainstorm.gif" alt="BrainStorm Demo" style="width: 100%; display: block; border-radius: 18px;" />
+    <img src="assets/brainstorm/brainstorm.gif" alt="BrainStorm Demo" />
   </a>
 </div>
 
@@ -47,10 +47,11 @@ Simple landing page for bicycle sales, built with HTML, CSS, and JavaScript.
 
 Check out: https://cgcm070.github.io/
 
-<div style="width: 100%; max-width: 480px; height: auto; margin-bottom: 12px; border-radius: 18px; overflow: hidden; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.46); background: #080808d5;">
-  <a href="https://cgcm070.github.io/" target="_blank" style="display: block;">
-    <img src="assets/bikecraft/bikecraft.gif" alt="Bikecraft Demo" style="width: 100%; display: block; border-radius: 18px;" />
-  </a>
+<div">
+<a href="https://cgcm070.github.io/" target="\_blank" >
+<img src="assets/bikecraft/bikecraft.gif" alt="Bikecraft Demo"  />
+</a>
+
 </div>
 
 ##
