@@ -19,11 +19,9 @@
 
 📸 Explore demos below to see the apps in action.
 
-<div >
-  <a href="https://drive.google.com/file/d/1QFsRaHY8YvME38d-2GQ7gHev1cM71uuC/view?usp=drive_link" >
+<a href="https://drive.google.com/file/d/1QFsRaHY8YvME38d-2GQ7gHev1cM71uuC/view?usp=drive_link" >
     <img src="assets/nexus/nexus.gif" alt="Nexus Video" />
-  </a>
-</div>
+</a>
 
 ## 💡 Brainstorm Collaborative App
 
@@ -35,11 +33,9 @@ Create a room or join an existing one, share your ideas, vote, and make decision
 
 Check out: https://brainstorm-app.vercel.app
 
-<div >
-  <a href="https://brainstorm-app.vercel.app" target="_blank" style="display: block;">
-    <img src="assets/brainstorm/brainstorm.gif" alt="BrainStorm Demo" />
-  </a>
-</div>
+<a href="https://brainstorm-app.vercel.app" target="_blank" style="display: block;">
+  <img src="assets/brainstorm/brainstorm.gif" alt="BrainStorm Demo" />
+</a>
 
 ## 🚲 Bicycle Sales Website
 
@@ -47,13 +43,18 @@ Simple landing page for bicycle sales, built with HTML, CSS, and JavaScript.
 
 Check out: https://cgcm070.github.io/
 
-<div>
-  <a href="https://cgcm070.github.io/" target="\_blank" >
-    <img src="assets/bikecraft/bikecraft.gif" alt="Bikecraft Demo"  />
-  </a>
-</div>
+<a href="https://cgcm070.github.io/" target="\_blank" >
+  <img src="assets/bikecraft/bikecraft.gif" alt="Bikecraft Demo"  />
+</a>
+>
 
 ##
+
+## ☕ Java Writer mi primer proyecto en Java
+
+Un pequeño editor de texto hecho con JFrame, donde aprendí a crear, guardar y organizar documentos. Mi primer paso en el mundo del código, lleno de curiosidad y nostalgia. Alan Gonzales - Adrian García
+
+  <img src="assets/javawriter/javawriter.gif" alt="JavaWritter"  />
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
