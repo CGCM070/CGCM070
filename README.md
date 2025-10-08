@@ -2,49 +2,61 @@
   <img src="https://img.shields.io/badge/Cesar_Castillo-Developer-6A1B9A?style=for-the-badge&logo=github&logoColor=white" width="280" />
 </div>
 
-# 🚀 Current Projects
+# 💻 Current Projects
 
 ### Nexus – Real-Time Collaboration Platform
-Full-stack application for team communication and project management. 
 
+Full-stack application for team communication and project management.
 **Tech Highlights:** Java + Spring Boot · Angular · WebSockets · RabbitMQ · MySQL
-
 **Core Features:**
+
 - Real-time messaging across channels and servers
 - Notes and task management with interactive UI
 - User profiles, invitations, and secure authentication (JWT + Spring Security)
 - Designed for responsiveness across devices
-  
-📸 Screenshots available below
 
-[Nexus_Video](https://drive.google.com/file/d/1QFsRaHY8YvME38d-2GQ7gHev1cM71uuC/view?usp=drive_link)
+📸 Explore demos below to see the apps in action.
 
-| Landing | Dashboard | Notes |
-|---------|-----------|-------|
-| ![](assets/landing.png) | ![](assets/dashboard.png) | ![](assets/notes.png) |
+<div style="width: 100%; max-width: 480px; height: auto; margin-bottom: 12px; border-radius: 18px; overflow: hidden; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.66); position: relative;">
+  <a href="https://drive.google.com/file/d/1QFsRaHY8YvME38d-2GQ7gHev1cM71uuC/view?usp=drive_link" target="_blank" style="display: block; position: relative;">
+    <img src="assets/nexus/dashboard-movil.png" alt="Nexus Video" style="width: 100%; height: 320px; object-fit: cover; display: block; border-radius: 18px; filter: brightness(0.85);" />
+    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+      <svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="28" cy="28" r="28" fill="rgba(0,0,0,0.5)"/>
+        <polygon points="22,16 42,28 22,40" fill="#fff"/>
+      </svg>
+    </span>
+  </a>
+</div>
 
-| Task   | Calendar  | Mobile |
-|--------|-----------|--------|
-| ![](assets/tareas.png) | ![](assets/calendario.png) | ![](assets/dashboard-movil.png) |
+## 💡 Brainstorm Collaborative App
 
-
-## 💡 BrainStorm App [BETA]
-Collaborative brainstorming tool with real-time updates. 
-
+Create a room or join an existing one, share your ideas, vote, and make decisions together as a team.
 **Stack:** Java · Spring Boot · Angular · Tailwind CSS · PostgreSQL
-
 **Note:** The app may take up to 1 minute to load on first launch due to free server warm-up time. Thanks for your patience.
 
 Check out: https://brainstorm-app.vercel.app
 
+<div style="width: 100%; max-width: 480px; height: auto; margin-bottom: 12px; border-radius: 18px; overflow: hidden; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.76); background: #222222aa;">
+  <a href="https://brainstorm-app.vercel.app" target="_blank" style="display: block;">
+    <img src="assets/brainstorm/brainstorm.gif" alt="BrainStorm Demo" style="width: 100%; display: block; border-radius: 18px;" />
+  </a>
+</div>
 
 ## 🚲 Bicycle Sales Website
-Simple landing page for bicycle sales, built with HTML, CSS, and JavaScript.
 
+Simple landing page for bicycle sales, built with HTML, CSS, and JavaScript.
 Check out: https://cgcm070.github.io/
 
-## 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="width: 100%; max-width: 480px; height: auto; margin-bottom: 12px; border-radius: 18px; overflow: hidden; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.46); background: #080808d5;">
+  <a href="https://cgcm070.github.io/" target="_blank" style="display: block;">
+    <img src="assets/bikecraft/bikecraft.gif" alt="Bikecraft Demo" style="width: 100%; display: block; border-radius: 18px;" />
+  </a>
+</div>
+
+##
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; padding: 20px 4px; background: rgba(60, 60, 63, 0.32); border-radius: 18px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.14); margin: 32px 0;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
     <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -74,9 +86,9 @@ Check out: https://cgcm070.github.io/
 </div>
 
 ## 📬 Connect with Me
-Linkedin: www.linkedin.com/in/cgcm         
-Email: cesar.gabriel.martinezs7@gmail.com
 
+Linkedin: www.linkedin.com/in/cgcm  
+Email: cesar.gabriel.martinezs7@gmail.com
 
 <!---
 CGCM070/CGCM070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
