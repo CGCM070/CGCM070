@@ -21,7 +21,7 @@
 
 <div style="width: 100%; max-width: 480px; height: auto; margin-bottom: 12px; position: relative;">
   <a href="https://drive.google.com/file/d/1QFsRaHY8YvME38d-2GQ7gHev1cM71uuC/view?usp=drive_link" target="_blank" style="display: block; position: relative;">
-    <img src="assets/nexus/dashboard.png" alt="Nexus Video" style="width: 100%; height: 320px; object-fit: cover; display: block; border-radius: 18px; filter: brightness(0.85);" />
+    <img src="assets/nexus/nexus.gif" alt="Nexus Video" style="width: 100%; height: 320px; object-fit: cover; display: block; border-radius: 18px; filter: brightness(0.85);" />
   </a>
 </div>
 
