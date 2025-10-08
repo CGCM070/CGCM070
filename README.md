@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://img.shields.io/badge/Cesar_Castillo-Developer-6A1B9A?style=for-the-badge&logo=github&logoColor=white" width="280" />
+  <img src="https://img.shields.io/badge/Cesar_Castillo-Developer-6A1B9A?style=for-the-badge&logo=github&logoColor=white"     width="280" />
 </div>
 
 # 💻 Current Projects
@@ -47,11 +47,10 @@ Simple landing page for bicycle sales, built with HTML, CSS, and JavaScript.
 
 Check out: https://cgcm070.github.io/
 
-<div">
-<a href="https://cgcm070.github.io/" target="\_blank" >
-<img src="assets/bikecraft/bikecraft.gif" alt="Bikecraft Demo"  />
-</a>
-
+<div>
+  <a href="https://cgcm070.github.io/" target="\_blank" >
+    <img src="assets/bikecraft/bikecraft.gif" alt="Bikecraft Demo"  />
+  </a>
 </div>
 
 ##
