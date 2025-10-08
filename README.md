@@ -50,9 +50,10 @@ Check out: https://cgcm070.github.io/
 
 ##
 
-## ☕ Java Writer mi primer proyecto en Java
-
-Un pequeño editor de texto hecho con JFrame, donde aprendí a crear, guardar y organizar documentos. Mi primer paso en el mundo del código, lleno de curiosidad y nostalgia. Alan Gonzales - Adrian García
+## ☕ Java Writer — my first project in Java.
+A small text editor built with JFrame, where I learned to create, save, and organize documents.
+My first step into the world of code, full of curiosity and nostalgia.
+Alan Gonzales - Adrian García
 
   <img src="assets/javawriter/javawriter.gif" alt="JavaWritter"  />
 
