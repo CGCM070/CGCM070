@@ -37,6 +37,12 @@ Check out: https://brainstorm-app.vercel.app
   <img src="assets/brainstorm/brainstorm.gif" alt="BrainStorm Demo" />
 </a>
 
+## 💻 NEW SaaS Landing Page
+
+Modern landing page for a SaaS, built with Angular, Tailwind CSS, and TypeScript.
+
+Check out: https://landing-page-snowy-eight-58.vercel.app/
+
 ## 🚲 Bicycle Sales Website
 
 Simple landing page for bicycle sales, built with HTML, CSS, and JavaScript.
