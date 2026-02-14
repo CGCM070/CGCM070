@@ -6,6 +6,8 @@
 
 ## 💻 Projects
 
+📁 **Visual demos available in [`/assets`](/assets)** — GIFs & screenshots of featured projects
+
 ### Full-Stack
 - **[Nexus](https://github.com/CGCM070/Nexus_backend)** – Real-time collaboration platform `Java` `Spring` `Angular` `WebSockets` `RabbitMQ` [Video ↗](https://drive.google.com/file/d/1QFsRaHY8YvME38d-2GQ7gHev1cM71uuC/view?usp=drive_link)
 - **[Brainstorm](https://github.com/CGCM070/Brainstorm-backend)** – Ideas sharing & voting (GraalVM native image) `Java` `Spring` `WebSockets` `Angular` `PostgreSQL` [Live ↗](https://brainstorm-app.vercel.app)
@@ -28,7 +30,6 @@
 - **[art-canvas](https://art-canvas-ruby.vercel.app/)** – AI-powered drawing `Angular` `Tailwind` `Gemini` [Live ↗](https://art-canvas-ruby.vercel.app/)
 - **[SaaSLanding_Angular](https://landing-page-snowy-eight-58.vercel.app/)** – SaaS landing page `Angular` `Tailwind` `TypeScript` [Live ↗](https://landing-page-snowy-eight-58.vercel.app/)
 - **Bicycle Sales** – Simple landing `HTML` `CSS` `JS`
-
 
 ### Automations
 - **WhatsApp → Email** – Task automation workflow `n8n` `Webhooks` `AI`
