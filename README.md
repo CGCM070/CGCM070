@@ -6,7 +6,9 @@
 
 ## 💻 Projects
 
+**Latest**: [`copilot-usage_tui`](https://github.com/CGCM070/copilot-usage_tui) • [`NotebookLM_Enhancer`](https://github.com/CGCM070/NotebookLM_Enhancer)
 📁 **Visual demos available in [`/assets`](/assets)** — GIFs & screenshots of featured projects
+
 
 ### Full-Stack
 - **[Nexus](https://github.com/CGCM070/Nexus_backend)** – Real-time collaboration platform `Java` `Spring` `Angular` `WebSockets` `RabbitMQ` [Video ↗](https://drive.google.com/file/d/1QFsRaHY8YvME38d-2GQ7gHev1cM71uuC/view?usp=drive_link)
