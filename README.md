@@ -31,7 +31,7 @@
 ### Frontend
 - **[art-canvas](https://art-canvas-ruby.vercel.app/)** – AI-powered drawing `Angular` `Tailwind` `Gemini` [Live ↗](https://art-canvas-ruby.vercel.app/)
 - **[SaaSLanding_Angular](https://landing-page-snowy-eight-58.vercel.app/)** – SaaS landing page `Angular` `Tailwind` `TypeScript` [Live ↗](https://landing-page-snowy-eight-58.vercel.app/)
-- **Bicycle Sales** – Simple landing `HTML` `CSS` `JS`
+- **[Bicycle Sales](https://github.com/CGCM070/CGCM070.github.io)** – Simple landing `HTML` `CSS` `JS` [Live ↗](https://cgcm070.github.io/)
 
 ### Automations
 - **WhatsApp → Email** – Task automation workflow `n8n` `Webhooks` `AI`
